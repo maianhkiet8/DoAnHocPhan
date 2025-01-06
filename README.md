@@ -1,6 +1,11 @@
+🚀✨🔥🎯🎨📌💡📚🎵📝⚡🌟✅🔗🌍🔧🛠️📌📊💻
+🚀✨🔥🎯🎨📌💡📚🎵📝⚡🌟✅🔗🌍🔧🛠️📌📊💻
+🚀✨🔥🎯🎨📌💡📚🎵📝⚡🌟✅🔗🌍🔧🛠️📌📊💻
+![Banner](https://your-image-link.com/banner.png)
+
 # 🚀 **NHÓM 10** 
 
-🎯🎯🎯 HỌC PHẦN: CÔNG CỤ PHÁT TRIỂN PHẦN MỀM
+🔥🔥🔥 HỌC PHẦN: CÔNG CỤ PHÁT TRIỂN PHẦN MỀM
 🛢️ Giảng viên hướng dẫn: Ths Nguyễn Hữu Trung
 
 > **🎯 Slogan**: _"Cùng qua môn của MR.Trung"_  
@@ -28,12 +33,15 @@
 - 🛢️ ****  
 
 ---
+🚀✨🔥🎯🎨📌💡📚🎵📝⚡🌟✅🔗🌍🔧🛠️📌📊💻
+🚀✨🔥🎯🎨📌💡📚🎵📝⚡🌟✅🔗🌍🔧🛠️📌📊💻
+🚀✨🔥🎯🎨📌💡📚🎵📝⚡🌟✅🔗🌍🔧🛠️📌📊💻
 
 
 ---
 
 ## 🚀 **Hướng Dẫn Sử Dụng**  
-1. **🔗 Clone repository**:  
+. **🔗 Clone repository**:  
    ```bash
    git clone []
    cd [Tên thư mục]
