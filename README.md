@@ -1,29 +1,39 @@
-# frontend
+# 🚀 **NHÓM 10** 
 
-This template should help get you started developing with Vue 3 in Vite.
+🎯🎯🎯 HỌC PHẦN: CÔNG CỤ PHÁT TRIỂN PHẦN MỀM
+🛢️ Giảng viên hướng dẫn: Ths Nguyễn Hữu Trung
 
-## Recommended IDE Setup
+> **🎯 Slogan**: _"Cùng qua môn của MR.Trung"_  
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+---
 
-## Customize configuration
+## 🧑‍💻 **Thành Viên Nhóm**  
+| 👤 Thành Viên             | 🛠️ Vai Trò               | 📬 Liên Hệ          |
+|----------------------     |---------------------------|---------------------|
+| **Nguyễn Mai Anh Kiệt**   | 🎨 Frontend Developer    | ✉️ aknm@gmail.com   |
+| **Nguyễn Tuấn Hậu**       | 🔧 Backend Developer     | ✉️ hau1@gmail.com   |
+| **Trần Trọng Tín**        | 📋 Project Manager       | ✉️ tinooo@gmail.com |
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+---
 
-## Project Setup
+## 🌟 ** GIT**  
+### ✨ ** GIT**  
+📝 Mô tả:  
+🌐🌐🌐🌐 WEBSITE BÁN KEM 🌐🌐🌐🌐
+> _"."_  
 
-```sh
-npm install
-```
+**🛠️ Công nghệ sử dụng**:  
+- ⚙️ **NodeJS**  
+- 🌐 ****  
+- 🛢️ ****  
 
-### Compile and Hot-Reload for Development
+---
 
-```sh
-npm run dev
-```
 
-### Compile and Minify for Production
+---
 
-```sh
-npm run build
-```
+## 🚀 **Hướng Dẫn Sử Dụng**  
+1. **🔗 Clone repository**:  
+   ```bash
+   git clone []
+   cd [Tên thư mục]
